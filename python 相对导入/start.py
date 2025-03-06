@@ -1,0 +1,1 @@
+from pkg.subpkg1 import moduleA
